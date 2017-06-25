@@ -1,0 +1,502 @@
+{
+	"data":
+	[
+		{
+			"product_code": "MW-101",
+			"rent": 7500,
+			"totalDays": 365,
+			"days": 179,
+			"percent": 0.4904
+		},
+		{
+			"product_code": "MW-102",
+			"rent": 9600,
+			"totalDays": 365,
+			"days": 186,
+			"percent": 0.5096
+		},
+		{
+			"product_code": "MW-104",
+			"rent": 9650,
+			"totalDays": 365,
+			"days": 260,
+			"percent": 0.7123
+		},
+		{
+			"product_code": "MW-105",
+			"rent": 4350,
+			"totalDays": 356,
+			"days": 114,
+			"percent": 0.3202
+		},
+		{
+			"product_code": "MW-106",
+			"rent": 6600,
+			"totalDays": 365,
+			"days": 171,
+			"percent": 0.4685
+		},
+		{
+			"product_code": "MW-108",
+			"rent": 7500,
+			"totalDays": 365,
+			"days": 189,
+			"percent": 0.5178
+		},
+		{
+			"product_code": "MW-109",
+			"rent": 4750,
+			"totalDays": 365,
+			"days": 125,
+			"percent": 0.3425
+		},
+		{
+			"product_code": "MW-110",
+			"rent": 5000,
+			"totalDays": 365,
+			"days": 137,
+			"percent": 0.3753
+		},
+		{
+			"product_code": "MW-111",
+			"rent": 5100,
+			"totalDays": 365,
+			"days": 99,
+			"percent": 0.2712
+		},
+		{
+			"product_code": "MW-112",
+			"rent": 7000,
+			"totalDays": 365,
+			"days": 176,
+			"percent": 0.4822
+		},
+		{
+			"product_code": "MW-114",
+			"rent": 2500,
+			"totalDays": 108,
+			"days": 69,
+			"percent": 0.6389
+		},
+		{
+			"product_code": "MW-120",
+			"rent": 10050,
+			"totalDays": 365,
+			"days": 341,
+			"percent": 0.9342
+		},
+		{
+			"product_code": "MW-121",
+			"rent": 3500,
+			"totalDays": 140,
+			"days": 94,
+			"percent": 0.6714
+		},
+		{
+			"product_code": "MW-122",
+			"rent": 4600,
+			"totalDays": 365,
+			"days": 105,
+			"percent": 0.2877
+		},
+		{
+			"product_code": "MW-123",
+			"rent": 2700,
+			"totalDays": 365,
+			"days": 57,
+			"percent": 0.1562
+		},
+		{
+			"product_code": "MW-124",
+			"rent": 7250,
+			"totalDays": 365,
+			"days": 168,
+			"percent": 0.4603
+		},
+		{
+			"product_code": "MW-125",
+			"rent": 6000,
+			"totalDays": 365,
+			"days": 141,
+			"percent": 0.3863
+		},
+		{
+			"product_code": "MW-126",
+			"rent": 4750,
+			"totalDays": 165,
+			"days": 135,
+			"percent": 0.8182
+		},
+		{
+			"product_code": "MW-128",
+			"rent": 7600,
+			"totalDays": 365,
+			"days": 196,
+			"percent": 0.537
+		},
+		{
+			"product_code": "MW-129",
+			"rent": 5850,
+			"totalDays": 365,
+			"days": 146,
+			"percent": 0.4
+		},
+		{
+			"product_code": "MW-132",
+			"rent": 6700,
+			"totalDays": 353,
+			"days": 262,
+			"percent": 0.7422
+		},
+		{
+			"product_code": "MW-133",
+			"rent": 6550,
+			"totalDays": 365,
+			"days": 264,
+			"percent": 0.7233
+		},
+		{
+			"product_code": "MW-134",
+			"rent": 6750,
+			"totalDays": 331,
+			"days": 291,
+			"percent": 0.8792
+		},
+		{
+			"product_code": "MW-135",
+			"rent": 7350,
+			"totalDays": 331,
+			"days": 341,
+			"percent": 1.0302
+		},
+		{
+			"product_code": "MW-136",
+			"rent": 750,
+			"totalDays": 331,
+			"days": 18,
+			"percent": 0.0544
+		},
+		{
+			"product_code": "MW-137",
+			"rent": 3600,
+			"totalDays": 331,
+			"days": 89,
+			"percent": 0.2689
+		},
+		{
+			"product_code": "MW-138",
+			"rent": 4500,
+			"totalDays": 331,
+			"days": 144,
+			"percent": 0.435
+		},
+		{
+			"product_code": "MW-139",
+			"rent": 4500,
+			"totalDays": 331,
+			"days": 48,
+			"percent": 0.145
+		},
+		{
+			"product_code": "MW-140",
+			"rent": 2600,
+			"totalDays": 331,
+			"days": 74,
+			"percent": 0.2236
+		},
+		{
+			"product_code": "MW-141",
+			"rent": 8100,
+			"totalDays": 331,
+			"days": 158,
+			"percent": 0.4773
+		},
+		{
+			"product_code": "MW-146",
+			"rent": 4700,
+			"totalDays": 274,
+			"days": 233,
+			"percent": 0.8504
+		},
+		{
+			"product_code": "MW-147",
+			"rent": 3100,
+			"totalDays": 274,
+			"days": 75,
+			"percent": 0.2737
+		},
+		{
+			"product_code": "MW-148",
+			"rent": 7100,
+			"totalDays": 274,
+			"days": 126,
+			"percent": 0.4599
+		},
+		{
+			"product_code": "MW-149",
+			"rent": 6000,
+			"totalDays": 274,
+			"days": 163,
+			"percent": 0.5949
+		},
+		{
+			"product_code": "MW-150",
+			"rent": 8500,
+			"totalDays": 274,
+			"days": 259,
+			"percent": 0.9453
+		},
+		{
+			"product_code": "MW-154",
+			"rent": 250,
+			"totalDays": 91,
+			"days": 7,
+			"percent": 0.0769
+		},
+		{
+			"product_code": "MW-156",
+			"rent": 500,
+			"totalDays": 30,
+			"days": 16,
+			"percent": 0.5333
+		},
+		{
+			"product_code": "MW-157",
+			"rent": 1500,
+			"totalDays": 30,
+			"days": 42,
+			"percent": 1.4
+		},
+		{
+			"product_code": "MW-158",
+			"rent": 1250,
+			"totalDays": 30,
+			"days": 35,
+			"percent": 1.1667
+		},
+		{
+			"product_code": "MW-159",
+			"rent": 750,
+			"totalDays": 30,
+			"days": 20,
+			"percent": 0.6667
+		},
+		{
+			"product_code": "MW-160",
+			"rent": 750,
+			"totalDays": 30,
+			"days": 31,
+			"percent": 1.0333
+		},
+		{
+			"product_code": "MW-161",
+			"rent": 1050,
+			"totalDays": 30,
+			"days": 23,
+			"percent": 0.7667
+		},
+		{
+			"product_code": "MW-162",
+			"rent": 1250,
+			"totalDays": 30,
+			"days": 34,
+			"percent": 1.1333
+		},
+		{
+			"product_code": "MW-163",
+			"rent": 250,
+			"totalDays": 30,
+			"days": 7,
+			"percent": 0.2333
+		},
+		{
+			"product_code": "MW-164",
+			"rent": 600,
+			"totalDays": 30,
+			"days": 10,
+			"percent": 0.3333
+		},
+		{
+			"product_code": "MW-165",
+			"rent": 750,
+			"totalDays": 30,
+			"days": 21,
+			"percent": 0.7
+		},
+		{
+			"product_code": "MW-166",
+			"rent": 750,
+			"totalDays": 30,
+			"days": 17,
+			"percent": 0.5667
+		},
+		{
+			"product_code": "MW-167",
+			"rent": 250,
+			"totalDays": 30,
+			"days": 7,
+			"percent": 0.2333
+		},
+		{
+			"product_code": "MW-168",
+			"rent": 500,
+			"totalDays": 30,
+			"days": 14,
+			"percent": 0.4667
+		},
+		{
+			"product_code": "MW-169",
+			"rent": 250,
+			"totalDays": 30,
+			"days": 7,
+			"percent": 0.2333
+		},
+		{
+			"product_code": "MW-170",
+			"rent": 2250,
+			"totalDays": 30,
+			"days": 63,
+			"percent": 2.1
+		},
+		{
+			"product_code": "MW-171",
+			"rent": 250,
+			"totalDays": 30,
+			"days": 7,
+			"percent": 0.2333
+		},
+		{
+			"product_code": "MW-49",
+			"rent": 1700,
+			"totalDays": 60,
+			"days": 33,
+			"percent": 0.55
+		},
+		{
+			"product_code": "MW-54",
+			"rent": 1000,
+			"totalDays": 365,
+			"days": 28,
+			"percent": 0.0767
+		},
+		{
+			"product_code": "MW-58",
+			"rent": 500,
+			"totalDays": 365,
+			"days": 15,
+			"percent": 0.0411
+		},
+		{
+			"product_code": "MW-64",
+			"rent": 4450,
+			"totalDays": 292,
+			"days": 112,
+			"percent": 0.3836
+		},
+		{
+			"product_code": "MW-66",
+			"rent": 5100,
+			"totalDays": 213,
+			"days": 132,
+			"percent": 0.6197
+		},
+		{
+			"product_code": "MW-68",
+			"rent": 1350,
+			"totalDays": 44,
+			"days": 34,
+			"percent": 0.7727
+		},
+		{
+			"product_code": "MW-75",
+			"rent": 250,
+			"totalDays": 25,
+			"days": 7,
+			"percent": 0.28
+		},
+		{
+			"product_code": "MW-81",
+			"rent": 750,
+			"totalDays": 72,
+			"days": 20,
+			"percent": 0.2778
+		},
+		{
+			"product_code": "MW-83",
+			"rent": 1100,
+			"totalDays": 51,
+			"days": 28,
+			"percent": 0.549
+		},
+		{
+			"product_code": "MW-84",
+			"rent": 7000,
+			"totalDays": 365,
+			"days": 190,
+			"percent": 0.5205
+		},
+		{
+			"product_code": "MW-85",
+			"rent": 9600,
+			"totalDays": 341,
+			"days": 260,
+			"percent": 0.7625
+		},
+		{
+			"product_code": "MW-86",
+			"rent": 2500,
+			"totalDays": 133,
+			"days": 67,
+			"percent": 0.5038
+		},
+		{
+			"product_code": "MW-88",
+			"rent": 850,
+			"totalDays": 90,
+			"days": 22,
+			"percent": 0.2444
+		},
+		{
+			"product_code": "MW-89",
+			"rent": 5500,
+			"totalDays": 365,
+			"days": 152,
+			"percent": 0.4164
+		},
+		{
+			"product_code": "MW-91",
+			"rent": 7700,
+			"totalDays": 365,
+			"days": 199,
+			"percent": 0.5452
+		},
+		{
+			"product_code": "MW-92",
+			"rent": 6950,
+			"totalDays": 365,
+			"days": 164,
+			"percent": 0.4493
+		},
+		{
+			"product_code": "MW-95",
+			"rent": 7300,
+			"totalDays": 359,
+			"days": 159,
+			"percent": 0.4429
+		},
+		{
+			"product_code": "MW-96",
+			"rent": 1350,
+			"totalDays": 90,
+			"days": 33,
+			"percent": 0.3667
+		},
+		{
+			"product_code": "MW-98",
+			"rent": 1850,
+			"totalDays": 90,
+			"days": 44,
+			"percent": 0.4889
+		}
+	]
+}

@@ -1,0 +1,96 @@
+{
+	"data":
+	[
+		{
+			"product_code": "PW-22",
+			"rent": 900,
+			"totalDays": 98,
+			"days": 2,
+			"percent": 0.0204
+		},
+		{
+			"product_code": "PW-23",
+			"rent": 15100,
+			"totalDays": 365,
+			"days": 159,
+			"percent": 0.4356
+		},
+		{
+			"product_code": "PW-24",
+			"rent": 6900,
+			"totalDays": 144,
+			"days": 26,
+			"percent": 0.1806
+		},
+		{
+			"product_code": "PW-25",
+			"rent": 28000,
+			"totalDays": 338,
+			"days": 96,
+			"percent": 0.284
+		},
+		{
+			"product_code": "PW-26",
+			"rent": 25950,
+			"totalDays": 365,
+			"days": 91,
+			"percent": 0.2493
+		},
+		{
+			"product_code": "PW-28",
+			"rent": 8200,
+			"totalDays": 265,
+			"days": 43,
+			"percent": 0.1623
+		},
+		{
+			"product_code": "PW-29",
+			"rent": 2800,
+			"totalDays": 139,
+			"days": 18,
+			"percent": 0.1295
+		},
+		{
+			"product_code": "PW-30",
+			"rent": 24650,
+			"totalDays": 365,
+			"days": 93,
+			"percent": 0.2548
+		},
+		{
+			"product_code": "PW-31",
+			"rent": 2700,
+			"totalDays": 151,
+			"days": 11,
+			"percent": 0.0728
+		},
+		{
+			"product_code": "PW-33",
+			"rent": 1000,
+			"totalDays": 98,
+			"days": 1,
+			"percent": 0.0102
+		},
+		{
+			"product_code": "PW-34",
+			"rent": 25350,
+			"totalDays": 365,
+			"days": 112,
+			"percent": 0.3068
+		},
+		{
+			"product_code": "PW-35",
+			"rent": 10100,
+			"totalDays": 365,
+			"days": 66,
+			"percent": 0.1808
+		},
+		{
+			"product_code": "PW-36",
+			"rent": 22750,
+			"totalDays": 365,
+			"days": 97,
+			"percent": 0.2658
+		}
+	]
+}
