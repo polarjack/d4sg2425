@@ -1,4 +1,4 @@
-var mw = require('./rent_days_mw.json');
+var mw = require('./rent_use_pw.json');
 var pw = require('./rent_days_pw.json');
 
 
@@ -16,8 +16,8 @@ var generate = index.map((v, i) => {
 console.log(generate)
 var outputmw = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 
-pw.data.map((value, index) => {
-  outputmw[Math.floor(value.days / 15)]++;
+mw.data.map((value, index) => {
+  outputmw[Math.floor(value.totalDays / 15)]++;
 })
 console.log(index)
 console.log(outputmw)
