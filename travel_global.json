@@ -1,0 +1,70 @@
+{
+	"data":
+	[
+		{
+			"period_year": 2017,
+			"period_month": 1,
+			"times": 11
+		},
+		{
+			"period_year": 2016,
+			"period_month": 12,
+			"times": 38
+		},
+		{
+			"period_year": 2016,
+			"period_month": 11,
+			"times": 13
+		},
+		{
+			"period_year": 2016,
+			"period_month": 10,
+			"times": 17
+		},
+		{
+			"period_year": 2016,
+			"period_month": 9,
+			"times": 9
+		},
+		{
+			"period_year": 2016,
+			"period_month": 8,
+			"times": 7
+		},
+		{
+			"period_year": 2016,
+			"period_month": 7,
+			"times": 17
+		},
+		{
+			"period_year": 2016,
+			"period_month": 6,
+			"times": 24
+		},
+		{
+			"period_year": 2016,
+			"period_month": 5,
+			"times": 9
+		},
+		{
+			"period_year": 2016,
+			"period_month": 4,
+			"times": 22
+		},
+		{
+			"period_year": 2016,
+			"period_month": 3,
+			"times": 9
+		},
+		{
+			"period_year": 2016,
+			"period_month": 2,
+			"times": 9
+		},
+		{
+			"period_year": 2016,
+			"period_month": 1,
+			"times": 18
+		}
+	]
+}
