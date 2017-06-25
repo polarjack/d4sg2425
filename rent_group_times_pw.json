@@ -1,0 +1,41 @@
+{
+	"data":
+	[
+		{
+			"product_code": "PW-01,PW-02,PW-04,PW-22,PW-33,PW-37",
+			"group_times": 1
+		},
+		{
+			"product_code": "PW-31",
+			"group_times": 2
+		},
+		{
+			"product_code": "PW-24,PW-28,PW-29,PW-35",
+			"group_times": 4
+		},
+		{
+			"product_code": "PW-23",
+			"group_times": 6
+		},
+		{
+			"product_code": "PW-36",
+			"group_times": 12
+		},
+		{
+			"product_code": "PW-34",
+			"group_times": 15
+		},
+		{
+			"product_code": "PW-26",
+			"group_times": 16
+		},
+		{
+			"product_code": "PW-30",
+			"group_times": 17
+		},
+		{
+			"product_code": "PW-25",
+			"group_times": 18
+		}
+	]
+}

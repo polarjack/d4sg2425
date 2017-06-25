@@ -1,0 +1,109 @@
+{
+	"data":
+	[
+		{
+			"product_code": "MW-168,MW-169,MW-136,MW-171,MW-04,MW-21,MW-05,MW-35,MW-54,MW-63,MW-75,MW-76,MW-154,MW-127,MW-163,MW-167",
+			"group_times": 1
+		},
+		{
+			"product_code": "MW-170,MW-09,MW-58,MW-83,MW-88,MW-158,MW-159,MW-160,MW-162,MW-166",
+			"group_times": 2
+		},
+		{
+			"product_code": "MW-143,MW-81,MW-114,MW-153,MW-156,MW-96,MW-164,MW-165",
+			"group_times": 3
+		},
+		{
+			"product_code": "MW-68,MW-157,MW-123",
+			"group_times": 4
+		},
+		{
+			"product_code": "MW-79,MW-86,MW-161,MW-94,MW-98",
+			"group_times": 5
+		},
+		{
+			"product_code": "MW-49,MW-144,MW-145,MW-131",
+			"group_times": 6
+		},
+		{
+			"product_code": "MW-137,MW-140,MW-121,MW-126",
+			"group_times": 7
+		},
+		{
+			"product_code": "MW-151",
+			"group_times": 8
+		},
+		{
+			"product_code": "MW-139,MW-110,MW-97",
+			"group_times": 9
+		},
+		{
+			"product_code": "MW-64,MW-109,MW-90",
+			"group_times": 10
+		},
+		{
+			"product_code": "MW-108,MW-148,MW-89",
+			"group_times": 11
+		},
+		{
+			"product_code": "MW-111,MW-149,MW-118,MW-95",
+			"group_times": 12
+		},
+		{
+			"product_code": "MW-138,MW-147",
+			"group_times": 13
+		},
+		{
+			"product_code": "MW-101,MW-66",
+			"group_times": 14
+		},
+		{
+			"product_code": "MW-150",
+			"group_times": 15
+		},
+		{
+			"product_code": "MW-105,MW-112",
+			"group_times": 16
+		},
+		{
+			"product_code": "MW-141,MW-84,MW-125,MW-132",
+			"group_times": 17
+		},
+		{
+			"product_code": "MW-128",
+			"group_times": 18
+		},
+		{
+			"product_code": "MW-135,MW-146,MW-92",
+			"group_times": 19
+		},
+		{
+			"product_code": "MW-102,MW-116,MW-122",
+			"group_times": 20
+		},
+		{
+			"product_code": "MW-129",
+			"group_times": 21
+		},
+		{
+			"product_code": "MW-133,MW-134,MW-104",
+			"group_times": 23
+		},
+		{
+			"product_code": "MW-85,MW-124",
+			"group_times": 24
+		},
+		{
+			"product_code": "MW-91",
+			"group_times": 25
+		},
+		{
+			"product_code": "MW-106",
+			"group_times": 26
+		},
+		{
+			"product_code": "MW-120",
+			"group_times": 29
+		}
+	]
+}

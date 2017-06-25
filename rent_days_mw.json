@@ -1,0 +1,369 @@
+{
+	"data":
+	[
+		{
+			"product_code": "MW-04",
+			"days": 1
+		},
+		{
+			"product_code": "MW-05",
+			"days": 28
+		},
+		{
+			"product_code": "MW-09",
+			"days": 13
+		},
+		{
+			"product_code": "MW-101",
+			"days": 179
+		},
+		{
+			"product_code": "MW-102",
+			"days": 186
+		},
+		{
+			"product_code": "MW-104",
+			"days": 260
+		},
+		{
+			"product_code": "MW-105",
+			"days": 114
+		},
+		{
+			"product_code": "MW-106",
+			"days": 171
+		},
+		{
+			"product_code": "MW-108",
+			"days": 189
+		},
+		{
+			"product_code": "MW-109",
+			"days": 125
+		},
+		{
+			"product_code": "MW-110",
+			"days": 137
+		},
+		{
+			"product_code": "MW-111",
+			"days": 99
+		},
+		{
+			"product_code": "MW-112",
+			"days": 176
+		},
+		{
+			"product_code": "MW-114",
+			"days": 69
+		},
+		{
+			"product_code": "MW-116",
+			"days": 131
+		},
+		{
+			"product_code": "MW-118",
+			"days": 98
+		},
+		{
+			"product_code": "MW-120",
+			"days": 341
+		},
+		{
+			"product_code": "MW-121",
+			"days": 94
+		},
+		{
+			"product_code": "MW-122",
+			"days": 126
+		},
+		{
+			"product_code": "MW-123",
+			"days": 57
+		},
+		{
+			"product_code": "MW-124",
+			"days": 168
+		},
+		{
+			"product_code": "MW-125",
+			"days": 141
+		},
+		{
+			"product_code": "MW-126",
+			"days": 135
+		},
+		{
+			"product_code": "MW-127",
+			"days": 8
+		},
+		{
+			"product_code": "MW-128",
+			"days": 196
+		},
+		{
+			"product_code": "MW-129",
+			"days": 146
+		},
+		{
+			"product_code": "MW-131",
+			"days": 53
+		},
+		{
+			"product_code": "MW-132",
+			"days": 262
+		},
+		{
+			"product_code": "MW-133",
+			"days": 264
+		},
+		{
+			"product_code": "MW-134",
+			"days": 291
+		},
+		{
+			"product_code": "MW-135",
+			"days": 341
+		},
+		{
+			"product_code": "MW-136",
+			"days": 18
+		},
+		{
+			"product_code": "MW-137",
+			"days": 89
+		},
+		{
+			"product_code": "MW-138",
+			"days": 144
+		},
+		{
+			"product_code": "MW-139",
+			"days": 48
+		},
+		{
+			"product_code": "MW-140",
+			"days": 74
+		},
+		{
+			"product_code": "MW-141",
+			"days": 158
+		},
+		{
+			"product_code": "MW-143",
+			"days": 34
+		},
+		{
+			"product_code": "MW-144",
+			"days": 61
+		},
+		{
+			"product_code": "MW-145",
+			"days": 44
+		},
+		{
+			"product_code": "MW-146",
+			"days": 233
+		},
+		{
+			"product_code": "MW-147",
+			"days": 75
+		},
+		{
+			"product_code": "MW-148",
+			"days": 126
+		},
+		{
+			"product_code": "MW-149",
+			"days": 163
+		},
+		{
+			"product_code": "MW-150",
+			"days": 259
+		},
+		{
+			"product_code": "MW-151",
+			"days": 65
+		},
+		{
+			"product_code": "MW-153",
+			"days": 11
+		},
+		{
+			"product_code": "MW-154",
+			"days": 7
+		},
+		{
+			"product_code": "MW-156",
+			"days": 16
+		},
+		{
+			"product_code": "MW-157",
+			"days": 42
+		},
+		{
+			"product_code": "MW-158",
+			"days": 35
+		},
+		{
+			"product_code": "MW-159",
+			"days": 20
+		},
+		{
+			"product_code": "MW-160",
+			"days": 31
+		},
+		{
+			"product_code": "MW-161",
+			"days": 23
+		},
+		{
+			"product_code": "MW-162",
+			"days": 34
+		},
+		{
+			"product_code": "MW-163",
+			"days": 7
+		},
+		{
+			"product_code": "MW-164",
+			"days": 10
+		},
+		{
+			"product_code": "MW-165",
+			"days": 21
+		},
+		{
+			"product_code": "MW-166",
+			"days": 17
+		},
+		{
+			"product_code": "MW-167",
+			"days": 7
+		},
+		{
+			"product_code": "MW-168",
+			"days": 14
+		},
+		{
+			"product_code": "MW-169",
+			"days": 7
+		},
+		{
+			"product_code": "MW-170",
+			"days": 63
+		},
+		{
+			"product_code": "MW-171",
+			"days": 7
+		},
+		{
+			"product_code": "MW-21",
+			"days": 14
+		},
+		{
+			"product_code": "MW-35",
+			"days": 12
+		},
+		{
+			"product_code": "MW-49",
+			"days": 33
+		},
+		{
+			"product_code": "MW-54",
+			"days": 28
+		},
+		{
+			"product_code": "MW-58",
+			"days": 15
+		},
+		{
+			"product_code": "MW-63",
+			"days": 14
+		},
+		{
+			"product_code": "MW-64",
+			"days": 112
+		},
+		{
+			"product_code": "MW-66",
+			"days": 132
+		},
+		{
+			"product_code": "MW-68",
+			"days": 34
+		},
+		{
+			"product_code": "MW-75",
+			"days": 7
+		},
+		{
+			"product_code": "MW-76",
+			"days": 6
+		},
+		{
+			"product_code": "MW-79",
+			"days": 38
+		},
+		{
+			"product_code": "MW-81",
+			"days": 20
+		},
+		{
+			"product_code": "MW-83",
+			"days": 28
+		},
+		{
+			"product_code": "MW-84",
+			"days": 190
+		},
+		{
+			"product_code": "MW-85",
+			"days": 260
+		},
+		{
+			"product_code": "MW-86",
+			"days": 67
+		},
+		{
+			"product_code": "MW-88",
+			"days": 22
+		},
+		{
+			"product_code": "MW-89",
+			"days": 152
+		},
+		{
+			"product_code": "MW-90",
+			"days": 89
+		},
+		{
+			"product_code": "MW-91",
+			"days": 199
+		},
+		{
+			"product_code": "MW-92",
+			"days": 164
+		},
+		{
+			"product_code": "MW-94",
+			"days": 47
+		},
+		{
+			"product_code": "MW-95",
+			"days": 159
+		},
+		{
+			"product_code": "MW-96",
+			"days": 33
+		},
+		{
+			"product_code": "MW-97",
+			"days": 89
+		},
+		{
+			"product_code": "MW-98",
+			"days": 44
+		}
+	]
+}

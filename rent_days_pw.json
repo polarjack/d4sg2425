@@ -1,0 +1,73 @@
+{
+	"data":
+	[
+		{
+			"product_code": "PW-01",
+			"days": 4
+		},
+		{
+			"product_code": "PW-02",
+			"days": 28
+		},
+		{
+			"product_code": "PW-04",
+			"days": 18
+		},
+		{
+			"product_code": "PW-22",
+			"days": 2
+		},
+		{
+			"product_code": "PW-23",
+			"days": 159
+		},
+		{
+			"product_code": "PW-24",
+			"days": 26
+		},
+		{
+			"product_code": "PW-25",
+			"days": 96
+		},
+		{
+			"product_code": "PW-26",
+			"days": 91
+		},
+		{
+			"product_code": "PW-28",
+			"days": 43
+		},
+		{
+			"product_code": "PW-29",
+			"days": 18
+		},
+		{
+			"product_code": "PW-30",
+			"days": 93
+		},
+		{
+			"product_code": "PW-31",
+			"days": 11
+		},
+		{
+			"product_code": "PW-33",
+			"days": 1
+		},
+		{
+			"product_code": "PW-34",
+			"days": 112
+		},
+		{
+			"product_code": "PW-35",
+			"days": 66
+		},
+		{
+			"product_code": "PW-36",
+			"days": 97
+		},
+		{
+			"product_code": "PW-37",
+			"days": 8
+		}
+	]
+}

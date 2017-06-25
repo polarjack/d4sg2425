@@ -1,0 +1,813 @@
+{
+	"data":
+	[
+		{
+			"product_code": "-134",
+			"times": 1
+		},
+		{
+			"product_code": "0",
+			"times": 10
+		},
+		{
+			"product_code": "150點2格子編號掉落",
+			"times": 1
+		},
+		{
+			"product_code": "240CM斜坡板",
+			"times": 1
+		},
+		{
+			"product_code": "BT-01",
+			"times": 1
+		},
+		{
+			"product_code": "BT-02",
+			"times": 2
+		},
+		{
+			"product_code": "BT-03",
+			"times": 2
+		},
+		{
+			"product_code": "BT-04",
+			"times": 1
+		},
+		{
+			"product_code": "BT-05",
+			"times": 1
+		},
+		{
+			"product_code": "CR-01",
+			"times": 1
+		},
+		{
+			"product_code": "HMW-01",
+			"times": 2
+		},
+		{
+			"product_code": "HMW-02",
+			"times": 2
+		},
+		{
+			"product_code": "HMW-03",
+			"times": 1
+		},
+		{
+			"product_code": "HMW-05",
+			"times": 3
+		},
+		{
+			"product_code": "HSW-01",
+			"times": 1
+		},
+		{
+			"product_code": "KSW-01",
+			"times": 1
+		},
+		{
+			"product_code": "LMW-01",
+			"times": 1
+		},
+		{
+			"product_code": "LMW-02",
+			"times": 3
+		},
+		{
+			"product_code": "LMW-03",
+			"times": 2
+		},
+		{
+			"product_code": "LMW-04",
+			"times": 2
+		},
+		{
+			"product_code": "LMW-05",
+			"times": 2
+		},
+		{
+			"product_code": "LPW-02",
+			"times": 1
+		},
+		{
+			"product_code": "MW-04",
+			"times": 1
+		},
+		{
+			"product_code": "MW-05",
+			"times": 1
+		},
+		{
+			"product_code": "MW-09",
+			"times": 2
+		},
+		{
+			"product_code": "MW-101",
+			"times": 14
+		},
+		{
+			"product_code": "MW-102",
+			"times": 20
+		},
+		{
+			"product_code": "MW-104",
+			"times": 23
+		},
+		{
+			"product_code": "MW-105",
+			"times": 16
+		},
+		{
+			"product_code": "MW-106",
+			"times": 26
+		},
+		{
+			"product_code": "MW-108",
+			"times": 11
+		},
+		{
+			"product_code": "MW-109",
+			"times": 10
+		},
+		{
+			"product_code": "MW-110",
+			"times": 9
+		},
+		{
+			"product_code": "MW-111",
+			"times": 12
+		},
+		{
+			"product_code": "MW-112",
+			"times": 16
+		},
+		{
+			"product_code": "MW-114",
+			"times": 3
+		},
+		{
+			"product_code": "MW-116",
+			"times": 20
+		},
+		{
+			"product_code": "MW-118",
+			"times": 12
+		},
+		{
+			"product_code": "MW-120",
+			"times": 29
+		},
+		{
+			"product_code": "MW-121",
+			"times": 7
+		},
+		{
+			"product_code": "MW-122",
+			"times": 20
+		},
+		{
+			"product_code": "MW-123",
+			"times": 4
+		},
+		{
+			"product_code": "MW-124",
+			"times": 24
+		},
+		{
+			"product_code": "MW-125",
+			"times": 17
+		},
+		{
+			"product_code": "MW-126",
+			"times": 7
+		},
+		{
+			"product_code": "MW-127",
+			"times": 1
+		},
+		{
+			"product_code": "MW-128",
+			"times": 18
+		},
+		{
+			"product_code": "MW-129",
+			"times": 21
+		},
+		{
+			"product_code": "MW-131",
+			"times": 6
+		},
+		{
+			"product_code": "MW-132",
+			"times": 17
+		},
+		{
+			"product_code": "MW-133",
+			"times": 23
+		},
+		{
+			"product_code": "MW-134",
+			"times": 22
+		},
+		{
+			"product_code": "MW-135",
+			"times": 19
+		},
+		{
+			"product_code": "MW-136",
+			"times": 1
+		},
+		{
+			"product_code": "MW-137",
+			"times": 7
+		},
+		{
+			"product_code": "MW-138",
+			"times": 13
+		},
+		{
+			"product_code": "MW-139",
+			"times": 9
+		},
+		{
+			"product_code": "MW-140",
+			"times": 7
+		},
+		{
+			"product_code": "MW-141",
+			"times": 17
+		},
+		{
+			"product_code": "MW-143",
+			"times": 3
+		},
+		{
+			"product_code": "MW-144",
+			"times": 6
+		},
+		{
+			"product_code": "MW-145",
+			"times": 6
+		},
+		{
+			"product_code": "MW-146",
+			"times": 19
+		},
+		{
+			"product_code": "MW-147",
+			"times": 13
+		},
+		{
+			"product_code": "MW-148",
+			"times": 11
+		},
+		{
+			"product_code": "MW-149",
+			"times": 12
+		},
+		{
+			"product_code": "MW-150",
+			"times": 15
+		},
+		{
+			"product_code": "MW-151",
+			"times": 8
+		},
+		{
+			"product_code": "MW-153",
+			"times": 3
+		},
+		{
+			"product_code": "MW-154",
+			"times": 1
+		},
+		{
+			"product_code": "MW-156",
+			"times": 3
+		},
+		{
+			"product_code": "MW-157",
+			"times": 4
+		},
+		{
+			"product_code": "MW-158",
+			"times": 2
+		},
+		{
+			"product_code": "MW-159",
+			"times": 2
+		},
+		{
+			"product_code": "MW-160",
+			"times": 2
+		},
+		{
+			"product_code": "MW-161",
+			"times": 5
+		},
+		{
+			"product_code": "MW-162",
+			"times": 2
+		},
+		{
+			"product_code": "MW-163",
+			"times": 1
+		},
+		{
+			"product_code": "MW-164",
+			"times": 3
+		},
+		{
+			"product_code": "MW-165",
+			"times": 3
+		},
+		{
+			"product_code": "MW-166",
+			"times": 2
+		},
+		{
+			"product_code": "MW-167",
+			"times": 1
+		},
+		{
+			"product_code": "MW-168",
+			"times": 1
+		},
+		{
+			"product_code": "MW-169",
+			"times": 1
+		},
+		{
+			"product_code": "MW-170",
+			"times": 2
+		},
+		{
+			"product_code": "MW-171",
+			"times": 1
+		},
+		{
+			"product_code": "MW-21",
+			"times": 1
+		},
+		{
+			"product_code": "MW-35",
+			"times": 1
+		},
+		{
+			"product_code": "MW-49",
+			"times": 6
+		},
+		{
+			"product_code": "MW-54",
+			"times": 1
+		},
+		{
+			"product_code": "MW-58",
+			"times": 2
+		},
+		{
+			"product_code": "MW-63",
+			"times": 1
+		},
+		{
+			"product_code": "MW-64",
+			"times": 10
+		},
+		{
+			"product_code": "MW-66",
+			"times": 14
+		},
+		{
+			"product_code": "MW-68",
+			"times": 4
+		},
+		{
+			"product_code": "MW-75",
+			"times": 1
+		},
+		{
+			"product_code": "MW-76",
+			"times": 1
+		},
+		{
+			"product_code": "MW-79",
+			"times": 5
+		},
+		{
+			"product_code": "MW-81",
+			"times": 3
+		},
+		{
+			"product_code": "MW-83",
+			"times": 2
+		},
+		{
+			"product_code": "MW-84",
+			"times": 17
+		},
+		{
+			"product_code": "MW-85",
+			"times": 24
+		},
+		{
+			"product_code": "MW-86",
+			"times": 5
+		},
+		{
+			"product_code": "MW-88",
+			"times": 2
+		},
+		{
+			"product_code": "MW-89",
+			"times": 11
+		},
+		{
+			"product_code": "MW-90",
+			"times": 10
+		},
+		{
+			"product_code": "MW-91",
+			"times": 25
+		},
+		{
+			"product_code": "MW-91等30部",
+			"times": 1
+		},
+		{
+			"product_code": "MW-92",
+			"times": 19
+		},
+		{
+			"product_code": "MW-94",
+			"times": 5
+		},
+		{
+			"product_code": "MW-95",
+			"times": 12
+		},
+		{
+			"product_code": "MW-96",
+			"times": 3
+		},
+		{
+			"product_code": "MW-97",
+			"times": 9
+		},
+		{
+			"product_code": "MW-98",
+			"times": 5
+		},
+		{
+			"product_code": "MW-ˊˋ",
+			"times": 1
+		},
+		{
+			"product_code": "MW134",
+			"times": 1
+		},
+		{
+			"product_code": "MW162",
+			"times": 1
+		},
+		{
+			"product_code": "NW-86",
+			"times": 1
+		},
+		{
+			"product_code": "NW-96",
+			"times": 1
+		},
+		{
+			"product_code": "OM-01",
+			"times": 2
+		},
+		{
+			"product_code": "OM-02",
+			"times": 1
+		},
+		{
+			"product_code": "OM-03",
+			"times": 1
+		},
+		{
+			"product_code": "OW-01",
+			"times": 10
+		},
+		{
+			"product_code": "OW-03",
+			"times": 7
+		},
+		{
+			"product_code": "OW-100",
+			"times": 5
+		},
+		{
+			"product_code": "OW-101",
+			"times": 3
+		},
+		{
+			"product_code": "OW-117",
+			"times": 4
+		},
+		{
+			"product_code": "OW-119",
+			"times": 7
+		},
+		{
+			"product_code": "OW-123",
+			"times": 4
+		},
+		{
+			"product_code": "OW-127",
+			"times": 8
+		},
+		{
+			"product_code": "OW-130",
+			"times": 3
+		},
+		{
+			"product_code": "OW-142",
+			"times": 2
+		},
+		{
+			"product_code": "OW-142`",
+			"times": 1
+		},
+		{
+			"product_code": "OW-152",
+			"times": 3
+		},
+		{
+			"product_code": "OW-73",
+			"times": 4
+		},
+		{
+			"product_code": "OW-80",
+			"times": 7
+		},
+		{
+			"product_code": "OW-82",
+			"times": 9
+		},
+		{
+			"product_code": "OW-99",
+			"times": 12
+		},
+		{
+			"product_code": "PS-02",
+			"times": 1
+		},
+		{
+			"product_code": "PS-03",
+			"times": 1
+		},
+		{
+			"product_code": "PS-05",
+			"times": 3
+		},
+		{
+			"product_code": "PW-01",
+			"times": 1
+		},
+		{
+			"product_code": "PW-02",
+			"times": 1
+		},
+		{
+			"product_code": "PW-04",
+			"times": 1
+		},
+		{
+			"product_code": "PW-22",
+			"times": 1
+		},
+		{
+			"product_code": "PW-23",
+			"times": 6
+		},
+		{
+			"product_code": "PW-24",
+			"times": 4
+		},
+		{
+			"product_code": "PW-25",
+			"times": 18
+		},
+		{
+			"product_code": "PW-26",
+			"times": 16
+		},
+		{
+			"product_code": "PW-28",
+			"times": 4
+		},
+		{
+			"product_code": "PW-29",
+			"times": 4
+		},
+		{
+			"product_code": "PW-30",
+			"times": 17
+		},
+		{
+			"product_code": "PW-31",
+			"times": 2
+		},
+		{
+			"product_code": "PW-33",
+			"times": 1
+		},
+		{
+			"product_code": "PW-34",
+			"times": 15
+		},
+		{
+			"product_code": "PW-35",
+			"times": 4
+		},
+		{
+			"product_code": "PW-36",
+			"times": 12
+		},
+		{
+			"product_code": "PW-37",
+			"times": 1
+		},
+		{
+			"product_code": "PWL-01",
+			"times": 1
+		},
+		{
+			"product_code": "PWL-07",
+			"times": 1
+		},
+		{
+			"product_code": "R-10",
+			"times": 6
+		},
+		{
+			"product_code": "R-13",
+			"times": 2
+		},
+		{
+			"product_code": "R-14",
+			"times": 4
+		},
+		{
+			"product_code": "R-15",
+			"times": 4
+		},
+		{
+			"product_code": "R-16",
+			"times": 6
+		},
+		{
+			"product_code": "R-17",
+			"times": 2
+		},
+		{
+			"product_code": "S-07",
+			"times": 1
+		},
+		{
+			"product_code": "SC-*R-11",
+			"times": 1
+		},
+		{
+			"product_code": "SC-11",
+			"times": 1
+		},
+		{
+			"product_code": "SC-12",
+			"times": 1
+		},
+		{
+			"product_code": "SC-20",
+			"times": 1
+		},
+		{
+			"product_code": "SC-21",
+			"times": 1
+		},
+		{
+			"product_code": "SP-01",
+			"times": 3
+		},
+		{
+			"product_code": "SP-02",
+			"times": 1
+		},
+		{
+			"product_code": "SW-07",
+			"times": 1
+		},
+		{
+			"product_code": "SW-109",
+			"times": 1
+		},
+		{
+			"product_code": "SW-116",
+			"times": 8
+		},
+		{
+			"product_code": "SW-118",
+			"times": 9
+		},
+		{
+			"product_code": "SW-131",
+			"times": 8
+		},
+		{
+			"product_code": "SW-140",
+			"times": 7
+		},
+		{
+			"product_code": "SW-145",
+			"times": 8
+		},
+		{
+			"product_code": "SW-151",
+			"times": 8
+		},
+		{
+			"product_code": "SW-153",
+			"times": 3
+		},
+		{
+			"product_code": "SW-155",
+			"times": 1
+		},
+		{
+			"product_code": "SW-79",
+			"times": 12
+		},
+		{
+			"product_code": "SW-90",
+			"times": 15
+		},
+		{
+			"product_code": "SW-94",
+			"times": 7
+		},
+		{
+			"product_code": "SW-97",
+			"times": 14
+		},
+		{
+			"product_code": "TW-01",
+			"times": 1
+		},
+		{
+			"product_code": "TW-02",
+			"times": 2
+		},
+		{
+			"product_code": "TW-03",
+			"times": 2
+		},
+		{
+			"product_code": "TW-04",
+			"times": 2
+		},
+		{
+			"product_code": "TW-05",
+			"times": 1
+		},
+		{
+			"product_code": "TW-06",
+			"times": 2
+		},
+		{
+			"product_code": "TW-07",
+			"times": 4
+		},
+		{
+			"product_code": "TW-08",
+			"times": 4
+		},
+		{
+			"product_code": "TW-09",
+			"times": 1
+		},
+		{
+			"product_code": "TW-10",
+			"times": 4
+		},
+		{
+			"product_code": "WM-135",
+			"times": 1
+		},
+		{
+			"product_code": "爬梯機",
+			"times": 1
+		},
+		{
+			"product_code": "爬梯機-1",
+			"times": 1
+		},
+		{
+			"product_code": "爬梯機-2",
+			"times": 1
+		}
+	]
+}
