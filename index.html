@@ -1,0 +1,58 @@
+<html>
+  <head>
+    <title>gogole timeline</title>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['timeline']});
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var container = document.getElementById('timeline');
+        var chart = new google.visualization.Timeline(container);
+        var dataTable = new google.visualization.DataTable();
+
+        dataTable.addColumn({ type: 'string', id: 'Items' });
+        dataTable.addColumn({ type: 'string', id: 'Name' });
+        dataTable.addColumn({ type: 'date', id: 'Start' });
+        dataTable.addColumn({ type: 'date', id: 'End' });
+        dataTable.addRows([
+          // ['MW-105', '王祥熙', new Date(105, 02, 17), new Date(105, 2, 23) ],
+          // ['MW-105', '梁小姐', new Date(105, 2, 25), new Date(105, 3, 1) ],
+          // ['MW-105', '盧育栩', new Date(105, 3, 4), new Date(105, 3, 18) ],
+          // ['MW-105', '高惠玲', new Date(105, 3, 11), new Date(105, 3, 25) ],
+          // ['MW-105', '陳宜寧', new Date(105, 3, 29), new Date(105, 4, 1) ],
+          // ['MW-105', '賴宇辰', new Date(105, 6, 1), new Date(105, 06, 06) ],
+          // ['MW-105', '賴宇辰', new Date(105, 6, 1), new Date(105, 6, 6) ],
+
+          // ['MW-105', '曹珍妹', new Date(105, 7, 1), new Date(105, 7, 29) ],
+          // ['MW-105', '張可蕙', new Date(105, 8, 29), new Date(105, 9, 5) ],
+          // ['MW-105', '陳冠諭', new Date(105, 10, 9), new Date(105, 10, 17) ],
+          // ['MW-105', '楊淳淳', new Date(105, 10, 21), new Date(105, 10, 28) ],
+          // ['MW-105', '李繼全', new Date(105, 11, 1), new Date(105, 11, 8) ],
+          // ['MW-105', '吳得子', new Date(105, 11, 17), new Date(105, 11, 30) ],
+          
+
+          ['MW-157', '陳秀智', new Date(105, 12, 20), new Date(105, 12, 27) ],
+          ['MW-157', '陳言心', new Date(105, 12, 30), new Date(106, 1, 6) ],
+          ['MW-157', '江建富', new Date(106, 1, 17), new Date(106, 1, 26) ],
+          ['MW-157', '簡劭瑜', new Date(106, 1, 26), new Date(106, 2, 2) ],
+          ['MW-157', '孫翠珠', new Date(106, 2, 10), new Date(106, 2, 17) ],
+          ['MW-157', 'Pramulmuang', new Date(106, 3, 1), new Date(106, 3, 7) ],
+          ['MW-157', '林倖如', new Date(106, 3, 30), new Date(106, 4, 12) ],
+          
+          ['MW-156', '陳秀智', new Date(105, 12, 20), new Date(105, 12, 27) ],
+          ['MW-156', '陳言心', new Date(105, 12, 30), new Date(106, 1, 6) ],
+          ['MW-156', '江建富', new Date(106, 1, 17), new Date(106, 1, 26) ],
+          ['MW-156', '簡劭瑜', new Date(106, 1, 26), new Date(106, 2, 2) ],
+          ['MW-156', '孫翠珠', new Date(106, 2, 10), new Date(106, 2, 17) ],
+          ['MW-156', 'Pramulmuang', new Date(106, 3, 1), new Date(106, 3, 7) ],
+          ['MW-156', '林倖如', new Date(106, 3, 30), new Date(106, 4, 12) ],
+         ]);
+        
+        chart.draw(dataTable);
+      }
+    </script>
+  </head>
+  <body>
+    <div id="timeline" style="height: 100%; width: 1366px;"></div>
+  </body>
+</html>
