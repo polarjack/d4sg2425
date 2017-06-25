@@ -1,0 +1,83 @@
+{
+	"data":
+	[
+		{
+			"product_code": "PW-22",
+			"totalDays": 98,
+			"days": 2,
+			"percent": 0.0204
+		},
+		{
+			"product_code": "PW-23",
+			"totalDays": 365,
+			"days": 159,
+			"percent": 0.4356
+		},
+		{
+			"product_code": "PW-24",
+			"totalDays": 144,
+			"days": 26,
+			"percent": 0.1806
+		},
+		{
+			"product_code": "PW-25",
+			"totalDays": 338,
+			"days": 96,
+			"percent": 0.284
+		},
+		{
+			"product_code": "PW-26",
+			"totalDays": 365,
+			"days": 91,
+			"percent": 0.2493
+		},
+		{
+			"product_code": "PW-28",
+			"totalDays": 265,
+			"days": 43,
+			"percent": 0.1623
+		},
+		{
+			"product_code": "PW-29",
+			"totalDays": 139,
+			"days": 18,
+			"percent": 0.1295
+		},
+		{
+			"product_code": "PW-30",
+			"totalDays": 365,
+			"days": 93,
+			"percent": 0.2548
+		},
+		{
+			"product_code": "PW-31",
+			"totalDays": 151,
+			"days": 11,
+			"percent": 0.0728
+		},
+		{
+			"product_code": "PW-33",
+			"totalDays": 98,
+			"days": 1,
+			"percent": 0.0102
+		},
+		{
+			"product_code": "PW-34",
+			"totalDays": 365,
+			"days": 112,
+			"percent": 0.3068
+		},
+		{
+			"product_code": "PW-35",
+			"totalDays": 365,
+			"days": 66,
+			"percent": 0.1808
+		},
+		{
+			"product_code": "PW-36",
+			"totalDays": 365,
+			"days": 97,
+			"percent": 0.2658
+		}
+	]
+}

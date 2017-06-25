@@ -101,7 +101,7 @@ Highcharts.chart('dayscontainer', {
   yAxis: {
     min: 0,
     title: {
-      text: '天數',
+      text: '次數',
       align: 'high'
     },
     labels: {
@@ -139,6 +139,68 @@ Highcharts.chart('dayscontainer', {
     {
       name: 'PW_DAYS',
       data: [5, 4, 1, 0, 1, 0, 4, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    }
+  ]
+});
+
+
+
+Highcharts.chart('useratecontainer', {
+  chart: {
+    type: 'bar'
+  },
+  title: {
+    text: '使用比率'
+  },
+  subtitle: {
+    text: 'MW & PW 系列'
+  },
+  xAxis: {
+    categories: [0.0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0, ">1"],
+    title: {
+      text: null
+    }
+  },
+  yAxis: {
+    min: 0,
+    title: {
+      text: '次數',
+      align: 'high'
+    },
+    labels: {
+      overflow: 'justify'
+    }
+  },
+  tooltip: {
+    valueSuffix: ' millions'
+  },
+  plotOptions: {
+    bar: {
+      dataLabels: {
+        enabled: true
+      }
+    }
+  },
+  legend: {
+    layout: 'vertical',
+    align: 'right',
+    verticalAlign: 'top',
+    x: -40,
+    y: 80,
+    floating: true,
+    borderWidth: 1,
+    backgroundColor: ((Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'),
+    shadow: true
+  },
+  credits: {
+    enabled: false
+  },
+  series: [{
+      name: 'MW_USE_RATE',
+      data: [ 0, 4, 2, 11, 8, 13, 11, 4, 7, 3, 2, 6]
+    },{
+      name: 'PW_USE_RATE',
+      data: [ 0, 3, 4, 4, 1, 1, 0, 0, 0, 0, 0, 0, 0]
     }
   ]
 });
